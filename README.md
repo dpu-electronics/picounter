@@ -1,6 +1,8 @@
 # PiCounter
 ## Frequency counter for experimental physics using the Raspberry Pi
 
+### This repository is forked from the original by diodelass as we prepare for manufacture using a Pick and Place.  We hope to remerge once we are in production.--EL
+
 ### Overview
 This repository holds schematics and information for the PiCounter, a firmwareless and fairly simple device for accurately measuring
 the frequency of an electrical signal using the Raspberry Pi to control data collection. The device has the following features:
